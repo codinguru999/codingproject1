@@ -1,0 +1,41 @@
+Output for program1
+
+
+ How many elements do you want to enter: 6
+
+Enter 6 elements: 3
+6
+8
+4
+6
+9
+
+Smallest element is 3
+Second smallest element is 4
+
+
+output for Program 2
+
+enter the how many number you want to insert5
+enter array2
+6
+4
+7
+1
+median of first elemnt2
+median of first two elements:4
+2
+4
+6
+median till  3elements is 4
+2
+4
+6
+7
+median till  4elements is 5
+1
+2
+4
+6
+7
+median till  5elements is 4
